@@ -1,0 +1,14 @@
+D:\Semester 2\UAMS\bin\Debug\UAMS.exe.config
+D:\Semester 2\UAMS\bin\Debug\UAMS.exe
+D:\Semester 2\UAMS\bin\Debug\UAMS.pdb
+D:\Semester 2\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Semester 2\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Semester 2\UAMS\obj\Debug\UAMS.exe
+D:\Semester 2\UAMS\obj\Debug\UAMS.pdb
+D:\Study\Semester 2\UAMS\bin\Debug\UAMS.exe.config
+D:\Study\Semester 2\UAMS\bin\Debug\UAMS.exe
+D:\Study\Semester 2\UAMS\bin\Debug\UAMS.pdb
+D:\Study\Semester 2\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Study\Semester 2\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\UAMS\obj\Debug\UAMS.exe
+D:\Study\Semester 2\UAMS\obj\Debug\UAMS.pdb
